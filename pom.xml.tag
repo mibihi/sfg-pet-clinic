@@ -41,7 +41,7 @@
             </plugins></pluginManagement>
     </build>
     <scm>
-        <developerConnection>scm:git:git@github.com:mibihi/sfg-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:mibihi/sfg-pet-clinic</developerConnection>
       <tag>sfg-pet-clinic-0.0.1</tag>
   </scm>
 

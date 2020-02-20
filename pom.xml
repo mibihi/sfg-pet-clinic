@@ -42,7 +42,7 @@
             </plugins></pluginManagement>
     </build>
     <scm>
-        <developerConnection>scm:git:git@github.com:mibihi/sfg-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:mibihi/sfg-pet-clinic</developerConnection>
     </scm>
 
 </project>
